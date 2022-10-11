@@ -1,0 +1,19 @@
+{
+  "name": "@nexthink/nql-editor",
+  "version": "1.8.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxt-fmiquel/nql-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxt-fmiquel/nql-editor/issues"
+  },
+  "homepage": "https://github.com/nxt-fmiquel/nql-editor#readme",
+  "description": ""
+}
